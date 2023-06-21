@@ -9,4 +9,6 @@
  <project path="kernel/xiaomi/ginkgo" name="GinkgoHub/android_kernel_xiaomi_ginkgo.git" remote="github" revision="thirteen" />
  <project path="vendor/xiaomi/ginkgo" name="GinkgoHub/android_vendor_xiaomi_ginkgo.git" remote="github" revision="thirteen" />
 
+  <!-- REMOVE -->
+ <remove-project name="vendor_pixel-framework" />
 </manifest>
