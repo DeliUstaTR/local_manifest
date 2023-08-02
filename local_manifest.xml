@@ -3,8 +3,7 @@
 
 
  <!-- Trees -->
- <project path="device/xiaomi/ginkgo" name="Whot1966/device_xiaomi_ginkgo" remote="github" revision="lineage-20" clone-depth="1"/>
- <project path="kernel/xiaomi/ginkgo" name="Whot1966/kernel_xiaomi_ginkgo" remote="github" revision="lineage-20" clone-depth="1"/>
- <project path="vendor/xiaomi/ginkgo" name="Whot1966/vendor_xiaomi_ginkgo" remote="github" revision="lineage-20" clone-depth="1"/>
- <project path="vendor/miuicamera" name="Whot1966/vendor_miuicamera" remote="githun" revision="arrow-12.0-a3" clone-depth="1"/>
+ <project path="device/xiaomi/ginkgo" name="DeliUstaTR/android_device_xiaomi_ginkgo" remote="github" revision="alphadroid" clone-depth="1"/>
+ <project path="kernel/xiaomi/ginkgo" name="siimsek/Lightning-Kernel" remote="github" revision="thirteen" clone-depth="1"/>
+ <project path="vendor/xiaomi/ginkgo" name="ArrowOS-Devices/android_vendor_xiaomi_ginkgo" remote="github" revision="arrow-13.1" clone-depth="1"/>
 </manifest>
