@@ -3,8 +3,8 @@
 
 
  <!-- Trees -->
- <project path="device/xiaomi/ginkgo" name="DeliUstaTR/device_xiaomi_ginkgo" remote="github" revision="Cherish-test" />
- <project path="kernel/xiaomi/ginkgo" name="kutemeikito/android_kernel_xiaomi_ginkgo" remote="github" revision="Thirteen" />
- <project path="vendor/xiaomi/ginkgo" name="Agatha-Prjkt/vendor_xiaomi_ginkgo" remote="github" revision="13" />
-
+ <project path="device/xiaomi/ginkgo" name="DeliUstaTR/device_xiaomi_ginkgo-1" remote="github" revision="reloaded" clone-depth="1" />
+ <project path="kernel/xiaomi/ginkgo" name="kutemeikito/android_kernel_xiaomi_ginkgo" remote="github" revision="Thirteen-KSU" clone-depth="1" />
+ <project path="vendor/xiaomi/ginkgo" name="PixelOS-Devices/vendor_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1" />
+ <project path="prebuilts/clang/host/linux-x86/clang-proton" name="LeCmnGend/proton-clang" remote="gitlab" revision="clang-17" clone-depth="1" />
 </manifest>
