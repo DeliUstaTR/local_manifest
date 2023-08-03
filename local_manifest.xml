@@ -7,4 +7,5 @@
  <project path="kernel/xiaomi/ginkgo" name="kutemeikito/android_kernel_xiaomi_ginkgo" remote="github" revision="Thirteen-KSU" clone-depth="1" />
  <project path="vendor/xiaomi/ginkgo" name="PixelOS-Devices/vendor_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1" />
  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="LeCmnGend/proton-clang" remote="gitlab" revision="clang-17" clone-depth="1" />
+ <project path="vendor/miuicamera" name="agathasenpai/android_vendor_miuicamera" remote="mit" revision="thirteen" clone-depth="1" />
 </manifest>
