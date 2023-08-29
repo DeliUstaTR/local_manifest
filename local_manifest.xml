@@ -3,10 +3,8 @@
 
 
  <!-- Trees -->
- <project path="device/xiaomi/ginkgo" name="DeliUstaTR/device_xiaomi_ginkgo" remote="github" revision="13.0" clone-depth="1"/>
- <project path="kernel/xiaomi/ginkgo" name="siimsek/Lightning-Kernel" remote="github" revision="KSU" clone-depth="1"/>
- <project path="vendor/xiaomi/ginkgo" name="crdroidandroid/proprietary_vendor_xiaomi_ginkgo" remote="github" revision="13.0" clone-depth="1"/>
+ <project path="device/xiaomi/ginkgo" name="DeliUstaTR/android_device_xiaomi_ginkgo" remote="github" revision="pyro" clone-depth="1"/>
+ <project path="kernel/xiaomi/ginkgo" name="PixelOS-Devices/kernel_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1"/>
+ <project path="vendor/xiaomi/ginkgo" name="PixelOS-Devices/vendor_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1"/>
  <project path="prebuilts/clang/host/linux-x86/clang-r498229" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229" remote="gitlab" revision="13.0" clone-depth="1" />
- <remove-project name="android_hardware_xiaomi" />
- <project path="hardware/xiaomi" name="DeliUstaTR/android_hardware_xiaomi" remote="github" revision="lineage-20-ginkgo" clone-depth="1" />
 </manifest>
